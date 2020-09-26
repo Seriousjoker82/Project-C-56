@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+img{
+    width: 400px;
+}
+div{
+    margin-top: 15px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.section{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: aqua;
+}
